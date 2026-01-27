@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Nausheen 👋
 
-<!--
-**nausheenara56-ops/nausheenara56-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Beginner developer learning and building step by step  
+💻 Completed Python fundamentals, Pandas & NumPy (basics)  
+🎮 Currently learning C# and Unity for game development  
+📚 Interested in technology, business awareness, and self-growth  
 
-Here are some ideas to get you started:
+### What I’m doing now
+- Practicing Python and data analysis concepts  
+- Learning Git & GitHub by building public repositories  
+- Exploring Unity and C# fundamentals  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My goal
+To build small projects consistently, improve my skills, and grow as a developer through learning by doing.
